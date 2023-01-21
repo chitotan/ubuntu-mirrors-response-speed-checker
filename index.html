@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>URL Response Time Measurement</title>
+  </head>
+  <body>
+    <table id="result-table">
+      <tr>
+        <th>URL</th>
+        <th>Response Time (ms)</th>
+      </tr>
+    </table>
+    <script>
+      const urlFile = 'allservers.txt';
+      const table = document.getElementById('result-table');
+
+      fetch(urlFile)
+        .then(response => response.text())
+        .then(text => {
+          const urls = text.split('\n');
+          urls.forEach(url => {
+            const start = performance.now();
+            fetch(url, {mode: 'no-cors'})
+              .then(response => {
+                const end = performance.now();
+                const row = table.insertRow();
+                row.insertCell().innerHTML = url;
+                row.insertCell().innerHTML = (end - start).toFixed(2);
+              })
+              .catch(error => console.log(error));
+          });
+        })
+        .catch(error => console.log(error));
+    </script>
+  </body>
+</html>
