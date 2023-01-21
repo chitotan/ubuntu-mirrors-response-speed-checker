@@ -1,0 +1,2 @@
+http://mirrors.upr.edu/ubuntu/
+http://archive.ubuntu.com/ubuntu/

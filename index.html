@@ -4,15 +4,90 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="Ubuntu Mirrors Response Speed Cheacker"/>
-    <meta property="og:description" content="Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。処理はクライアント側でやってるので激重ですので参考までに。"/>
+    <meta property="og:description" content="Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。"/>
     <meta property="og:type" content="article"/>
-    <meta name="description" content="Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。処理はクライアント側でやってるので激重ですので参考までに。"/>
+    <meta name="description" content="Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。"/>
     <title>Ubuntu Mirrors Response Speed Cheacker</title>
+    <style>
+      /* 一般的なスタイル */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      /* タイトル文字のスタイル */
+      #h1title {
+        text-align: center;
+      }
+      /* 説明のスタイル */
+      #explanation {
+        text-align: center;
+      }
+      /* フォームスタイル */
+      form {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px;
+      }
+      /* select要素のスタイル */
+      #file-select {
+        padding: 8px;
+        border: none;
+        border-radius: 4px;
+        font-size: 16px;
+        background-color: #f2f2f2;
+        margin-right: 10px;
+      }
+      /* ボタンのスタイル */
+      input[type="button"] {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        background-color: #4CAF50;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      /* テーブルのスタイル */
+      #result-table {
+        border-collapse: collapse;
+        width: 100%;
+        margin: 20px;
+      }
+      /* テーブルのセルのスタイル */
+      #result-table td, #result-table th {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+      }
+      /* テーブルのヘッダーのスタイル */
+      #result-table th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        background-color: #4CAF50;
+        color: white;
+      }
+      /* コピーライトのタイトル */
+      #copy{
+        text-align: center;
+      }
+    </style>
   </head>
   <body>
-    <h1>Ubuntu Mirrors Response Speed Cheacker</h1>
-    <a>Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。</a>
-    <a>処理はクライアント側でやってるので激重ですので参考までに。</a>
+    <h1 id="h1title">Ubuntu Mirrors Response Speed Cheacker</h1>
+    <div id="explanation">
+      <p>Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。</p>
+      <p>下から計測したいサーバーのある地域を選んで実行ボタンを押してください。　例)日本➡JP </p>
+      <p>注意)一番下の「allservers」はすべてのサーバーを同時に計測できますが、200以上あるので激重になりろくに計測できないので非推奨です。</p>
+    </div>
+    <form>
+      <label>Select a file:
+        <select id="file-select">
+        </select>
+      </label>
+      <input type="button" value="Measure" onclick="measure()">
+    </form>
     <table id="result-table">
       <tr>
         <th>URL</th>
@@ -20,9 +95,27 @@
       </tr>
     </table>
     <script>
-      const urlFile = 'allservers.txt';
-      const table = document.getElementById('result-table');
-// fetchが終わった後に、response time順にsortしてから表示
+            const table = document.getElementById('result-table');
+      const fileSelect = document.getElementById('file-select');
+        console.log('made by chitoheymu_kakka \nhttps://github.com/chitotan/ubuntu-mirrors-response-speed-checker')
+      // ディレクトリ内のtxtファイルを検索し、select要素に追加
+      fetch('list.php')
+      .then(response => response.text())
+      .then(text => {
+        const files = text.split('\n');
+        files.forEach(file => {
+          if(file.endsWith('.txt')){
+            const option = document.createElement('option');
+            option.value = file;
+            option.text = file.replace('.txt',''); // 拡張子を除去
+            fileSelect.appendChild(option);
+          }
+        });
+      })
+          .catch(error => console.log(error));
+          function measure() {
+      const urlFile = fileSelect.value;
+
       fetch(urlFile)
         .then(response => response.text())
         .then(text => {
@@ -39,7 +132,6 @@
               .catch(error => console.log(error));
           });
         })
-        // 表示された行のresponse time順にsortする
         .then(() => {
           let rows, switching, i, x, y, shouldSwitch;
           switching = true;
@@ -48,7 +140,7 @@
             rows = table.rows;
             for (i = 1; i < (rows.length - 1); i++) {
               shouldSwitch = false;
-              x = rows[i].getElementsByTagName("TD")[1];
+              x = rows[i].getElementsByTagName("TD")[1];              
               y = rows[i + 1].getElementsByTagName("TD")[1];
               if (Number(x.innerHTML) > Number(y.innerHTML)) {
                 shouldSwitch = true;
@@ -62,11 +154,13 @@
           }
         })
         .catch(error => console.log(error));
+    }
+
     </script>
     <footer>
-      <p class="copy"><small>
-          &copy; 2019<script>new Date().getFullYear()>2019&&document.write("-"+new Date().getFullYear());</script>, chitoheymu_kakka
-        </small></p>
+      <small><p id="copy">
+          &copy; 2019<script>new Date().getFullYear()>2019&&document.write("-"+new Date().getFullYear());</script>, chitoheymu_kakka | <a href="https://github.com/chitotan/ubuntu-mirrors-response-speed-checker">github</a>
+        </p></small>
   </footer>
   </body>
 </html>

@@ -1,0 +1,5 @@
+https://mirror.hostart.az/Ubuntu/
+http://mirror.datacenter.az/ubuntu/
+https://mirror.yer.az/ubuntu/archive/
+http://aze.archive.ubuntu.com/ubuntu/
+http://archive.ubuntu.com/ubuntu/

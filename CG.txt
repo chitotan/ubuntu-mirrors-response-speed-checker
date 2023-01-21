@@ -1,0 +1,15 @@
+http://mirror.renu.ac.ug/ubuntu/
+http://ubuntu.dts.mg/ubuntu/
+http://mirror.wiru.co.za/ubuntu/
+http://download.nust.na/pub/ubuntu/ubuntu/
+http://ubuntu.mirror.ac.za/ubuntu/
+https://ubuntu-mirror.cloud.mu/ubuntu/
+http://mirror.aptus.co.tz/pub/ubuntuarchive/
+http://mirror.hostafrica.co.za/ubuntu/
+http://mirror.lnx-solutions.com/ubuntu/
+https://mirrors.united.cd/ubuntu/
+https://mirror.marwan.ma/ubuntu/
+http://deb-mirror.habari.co.tz/ubuntu/
+http://mirror.ng/ubuntu-archive/
+http://ubuntu.mirror.rain.co.za/ubuntu/
+http://archive.ubuntu.com/ubuntu/

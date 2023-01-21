@@ -1,0 +1,6 @@
+http://no.archive.ubuntu.com/ubuntu/
+https://ubuntu.hi.no/archive/
+http://no.mirrors.blix.com/ubuntu/
+http://ubuntu.uib.no/archive/
+http://ftp.uninett.no/ubuntu/
+http://archive.ubuntu.com/ubuntu/

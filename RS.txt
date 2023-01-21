@@ -1,0 +1,2 @@
+https://rs.mirror.kumi.systems/ubuntu/
+http://archive.ubuntu.com/ubuntu/

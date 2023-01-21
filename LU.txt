@@ -1,0 +1,2 @@
+http://ubuntu.mirror.root.lu/ubuntu/
+http://archive.ubuntu.com/ubuntu/

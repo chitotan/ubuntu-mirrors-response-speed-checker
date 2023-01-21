@@ -1,0 +1,3 @@
+http://mirror.unimagdalena.edu.co/ubuntu/
+https://edgeuno-bog2.mm.fcix.net/ubuntu/
+http://archive.ubuntu.com/ubuntu/

@@ -1,0 +1,10 @@
+http://sft.if.usp.br/ubuntu/
+https://ubuntu.itsbrasil.net/ubuntu/
+https://ubuntu.letscloud.io/ubuntu/
+http://ubuntu-archive.locaweb.com.br/ubuntu/
+http://mirror.ufam.edu.br/ubuntu/
+http://ubuntu.c3sl.ufpr.br/ubuntu/
+http://ubuntu.mti.mt.gov.br/
+https://mirror.uepg.br/ubuntu/
+http://mirror.ufscar.br/ubuntu/
+http://archive.ubuntu.com/ubuntu/

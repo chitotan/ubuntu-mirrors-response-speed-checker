@@ -1,0 +1,6 @@
+http://ftp.klid.dk/ftp/ubuntu/
+https://mirror.netsite.dk/ubuntu/archive/
+https://mirror.asergo.com/ubuntu/
+http://mirror.one.com/ubuntu/
+http://mirrors.dotsrc.org/ubuntu/
+http://archive.ubuntu.com/ubuntu/
