@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>URL Response Time Measurement</title>
+    <title>Ubuntu Mirrors Response Speed Cheacker</title>
   </head>
   <body>
     <table id="result-table">
@@ -11,9 +11,9 @@
       </tr>
     </table>
     <script>
-      const urlFile = 'allservers.txt';
+      const urlFile = 'urls.txt';
       const table = document.getElementById('result-table');
-
+// fetchが終わった後に、response time順にsortしてから表示
       fetch(urlFile)
         .then(response => response.text())
         .then(text => {
@@ -29,6 +29,28 @@
               })
               .catch(error => console.log(error));
           });
+        })
+        // 表示された行のresponse time順にsortする
+        .then(() => {
+          let rows, switching, i, x, y, shouldSwitch;
+          switching = true;
+          while (switching) {
+            switching = false;
+            rows = table.rows;
+            for (i = 1; i < (rows.length - 1); i++) {
+              shouldSwitch = false;
+              x = rows[i].getElementsByTagName("TD")[1];
+              y = rows[i + 1].getElementsByTagName("TD")[1];
+              if (Number(x.innerHTML) > Number(y.innerHTML)) {
+                shouldSwitch = true;
+                break;
+              }
+            }
+            if (shouldSwitch) {
+              rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+              switching = true;
+            }
+          }
         })
         .catch(error => console.log(error));
     </script>
