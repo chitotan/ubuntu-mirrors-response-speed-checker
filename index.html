@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html>
-  <head>
+  <head prefix="og: https://ogp.me/ns#">
+    <meta property="og:title" content="Ubuntu Mirrors Response Speed Cheacker"/>
+    <meta property="og:description" content="Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。処理はクライアント側でやってるので激重ですので参考までに。"/>
+    <meta property="og:type" content="article"/>
+    <meta name="description" content="Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。処理はクライアント側でやってるので激重ですので参考までに。"/>
     <title>Ubuntu Mirrors Response Speed Cheacker</title>
   </head>
   <body>
+    <h1>Ubuntu Mirrors Response Speed Cheacker</h1>
+    <a>Ubuntuの全アーカイブミラーサーバーの応答速度のテストを行います。</a>
+    <a>処理はクライアント側でやってるので激重ですので参考までに。</a>
     <table id="result-table">
       <tr>
         <th>URL</th>
@@ -54,5 +61,10 @@
         })
         .catch(error => console.log(error));
     </script>
+    <footer>
+      <p class="copy"><small>
+          &copy; 2019<script>new Date().getFullYear()>2019&&document.write("-"+new Date().getFullYear());</script>, chitoheymu_kakka
+        </small></p>
+  </footer>
   </body>
 </html>
