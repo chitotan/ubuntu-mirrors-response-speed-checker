@@ -1,6 +1,0 @@
-https://ftp.lanet.kr/ubuntu/
-https://mirror.kakao.com/ubuntu/
-http://ftp.daum.net/ubuntu/
-https://mirror.misakamikoto.network/ubuntu-ports/
-https://mirror.misakamikoto.network/ubuntu/
-http://archive.ubuntu.com/ubuntu/

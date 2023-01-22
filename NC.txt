@@ -1,3 +1,0 @@
-http://archive.ubuntu.nautile.nc/ubuntu/
-http://ubuntu.lagoon.nc/ubuntu/
-http://archive.ubuntu.com/ubuntu/

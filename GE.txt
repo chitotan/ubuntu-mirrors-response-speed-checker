@@ -1,2 +1,0 @@
-http://ubuntu.grena.ge/ubuntu/
-http://archive.ubuntu.com/ubuntu/

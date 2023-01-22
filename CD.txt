@@ -1,2 +1,0 @@
-https://mirrors.united.cd/ubuntu/
-http://archive.ubuntu.com/ubuntu/

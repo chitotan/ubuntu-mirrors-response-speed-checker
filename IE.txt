@@ -1,3 +1,0 @@
-http://ftp.heanet.ie/pub/ubuntu/
-https://mirror.webworld.ie/ubuntu/
-http://archive.ubuntu.com/ubuntu/

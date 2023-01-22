@@ -1,2 +1,0 @@
-http://mirror.library.ucy.ac.cy/linux/ubuntu/archive/
-http://archive.ubuntu.com/ubuntu/

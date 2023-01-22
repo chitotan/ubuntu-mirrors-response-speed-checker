@@ -1,3 +1,0 @@
-http://ubuntu.ntc.net.np/ubuntu/
-http://ntc.net.np/ubuntu/
-http://archive.ubuntu.com/ubuntu/

@@ -1,6 +1,0 @@
-http://ubuntu.tuxuri.com/ubuntu/
-https://mirrors.ipserverone.com/ubuntu/
-https://mirrors.gbnetwork.com/ubuntu/
-http://ubuntu.mirror.myduniahost.com/ubuntu/
-http://my.mirrors.thegigabit.com/ubuntu/
-http://archive.ubuntu.com/ubuntu/

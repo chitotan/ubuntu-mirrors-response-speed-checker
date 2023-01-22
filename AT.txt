@@ -1,7 +1,0 @@
-http://ubuntu.lagis.at/ubuntu/
-http://ubuntu.uni-klu.ac.at/ubuntu/
-http://mirror.easyname.at/ubuntu-archive/
-https://mirror.kumi.systems/ubuntu/
-http://ubuntu.anexia.at/ubuntu/
-https://mirror.kumi.systems/ubuntu-ports/
-http://archive.ubuntu.com/ubuntu/

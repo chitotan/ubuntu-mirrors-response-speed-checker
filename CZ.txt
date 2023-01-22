@@ -1,8 +1,0 @@
-http://ftp.cvut.cz/ubuntu/
-https://mirror.dkm.cz/ubuntu/
-http://ucho.ignum.cz/ubuntu/
-https://ftp.sh.cvut.cz/ubuntu/
-https://mirror.it4i.cz/ubuntu/
-http://ftp.linux.cz/pub/linux/ubuntu/
-https://cz.archive.ubuntu.com/ubuntu/
-http://archive.ubuntu.com/ubuntu/

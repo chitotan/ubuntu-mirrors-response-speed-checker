@@ -1,3 +1,0 @@
-http://repos.interior.edu.uy/ubuntu/
-https://ubuntu.repo.cure.edu.uy/mirror/
-http://archive.ubuntu.com/ubuntu/

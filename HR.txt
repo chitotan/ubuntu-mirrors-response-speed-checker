@@ -1,2 +1,0 @@
-http://ubuntu.grad.hr/ubuntu/
-http://archive.ubuntu.com/ubuntu/

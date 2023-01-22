@@ -1,2 +1,0 @@
-http://ubuntu.ucr.ac.cr/ubuntu/
-http://archive.ubuntu.com/ubuntu/

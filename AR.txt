@@ -1,5 +1,0 @@
-https://ubuntu.zero.com.ar/ubuntu/
-http://mirrors.eze.sysarmy.com/ubuntu/
-http://ubuntu.unc.edu.ar/ubuntu/
-https://mirrors.dc.clear.net.ar/ubuntu/
-http://archive.ubuntu.com/ubuntu/

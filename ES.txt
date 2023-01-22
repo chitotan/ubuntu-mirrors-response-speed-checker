@@ -1,9 +1,0 @@
-https://ftp.csuc.cat/ubuntu/archieve/
-http://softlibre.unizar.es/ubuntu/archive/
-http://ubuntu.cica.es/ubuntu/
-http://ftp.udc.es/ubuntu/
-http://dafi.inf.um.es/ubuntu/
-http://ftp.caliu.cat/pub/distribucions/ubuntu/archive/
-http://ubuntu.grn.cat/ubuntu/
-http://mirror.tedra.es/ubuntu/
-http://archive.ubuntu.com/ubuntu/

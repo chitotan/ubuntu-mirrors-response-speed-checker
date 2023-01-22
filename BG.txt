@@ -1,7 +1,0 @@
-https://mirrors.storpool.com/ubuntu/archive/
-http://mirror.bg.host.ag/ubuntu/
-http://ubuntu.ipacct.com/ubuntu/
-http://mirrors.neterra.net/ubuntu/
-https://mirror.telepoint.bg/ubuntu/
-http://mirrors.daticum.com/ubuntu/archive/
-http://archive.ubuntu.com/ubuntu/

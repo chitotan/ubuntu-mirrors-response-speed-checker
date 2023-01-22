@@ -1,2 +1,0 @@
-http://ubuntu.dts.mg/ubuntu/
-http://archive.ubuntu.com/ubuntu/

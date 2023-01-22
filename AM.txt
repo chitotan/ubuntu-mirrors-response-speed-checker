@@ -1,2 +1,0 @@
-http://mirrors.asnet.am/ubuntu/
-http://archive.ubuntu.com/ubuntu/

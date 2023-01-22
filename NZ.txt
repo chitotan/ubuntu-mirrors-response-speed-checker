@@ -1,5 +1,0 @@
-http://ucmirror.canterbury.ac.nz/ubuntu/
-https://mirror.2degrees.nz/ubuntu/
-http://ubuntu.mirrors.theom.nz/
-http://mirror.fsmg.org.nz/ubuntu/
-http://archive.ubuntu.com/ubuntu/

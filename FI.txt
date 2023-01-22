@@ -1,2 +1,0 @@
-http://mirrors.nic.funet.fi/ubuntu/
-http://archive.ubuntu.com/ubuntu/

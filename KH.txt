@@ -1,3 +1,0 @@
-http://mirror.telcotech.com.kh/Linux/ubuntu-releases/
-https://mirror.sabay.com.kh/ubuntu/
-http://archive.ubuntu.com/ubuntu/

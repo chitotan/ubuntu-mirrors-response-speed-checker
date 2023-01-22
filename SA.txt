@@ -1,2 +1,0 @@
-https://mirrors.isu.net.sa/apt-mirror/
-http://archive.ubuntu.com/ubuntu/

@@ -1,3 +1,0 @@
-http://mirror.onevip.mk/ubuntu/
-http://mirror.t-home.mk/ubuntu/
-http://archive.ubuntu.com/ubuntu/

@@ -1,8 +1,0 @@
-http://mirror.il-rh.kamatera.com/ubuntu/
-http://mirror.il-pt.kamatera.com/ubuntu/
-http://mirror.il.kamatera.com/ubuntu/
-http://mirror.il-jr.kamatera.com/ubuntu/
-http://mirror.isoc.org.il/pub/ubuntu/
-http://rep-ubuntu-il.upress.io/ubuntu/
-http://mirror.il-ta.kamatera.com/ubuntu/
-http://archive.ubuntu.com/ubuntu/

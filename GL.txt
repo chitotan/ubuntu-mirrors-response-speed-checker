@@ -1,2 +1,0 @@
-http://mirror.greennet.gl/ubuntu/
-http://archive.ubuntu.com/ubuntu/

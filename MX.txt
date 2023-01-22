@@ -1,2 +1,0 @@
-http://mirror.nerdmilio.com/ubuntu/
-http://archive.ubuntu.com/ubuntu/

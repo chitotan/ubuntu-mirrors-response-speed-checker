@@ -1,2 +1,0 @@
-http://ubuntu.snet.uz/ubuntu/
-http://archive.ubuntu.com/ubuntu/

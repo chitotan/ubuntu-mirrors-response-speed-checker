@@ -1,8 +1,0 @@
-http://mirror.mirohost.net/ubuntu/
-http://ubuntu.volia.net/ubuntu-archive/
-http://ubuntu.colocall.net/ubuntu/
-https://ubuntu.ip-connect.vn.ua/
-https://ubuntu.astra.in.ua/ubuntu/
-http://ubuntu.mirrors.omnilance.com/ubuntu/
-https://ubuntu.netforce.hosting/ubuntu/
-http://archive.ubuntu.com/ubuntu/

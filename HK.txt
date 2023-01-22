@@ -1,6 +1,0 @@
-http://hk.mirrors.thegigabit.com/ubuntu/
-http://www.ubuntu.org.tw/
-http://mirror.as.kamatera.com/ubuntu/
-http://mirror-hk.koddos.net/ubuntu/
-https://mirror.xtom.com.hk/ubuntu/
-http://archive.ubuntu.com/ubuntu/

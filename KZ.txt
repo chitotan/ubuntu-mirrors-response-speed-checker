@@ -1,4 +1,0 @@
-http://mirror.ps.kz/ubuntu/
-http://mirror.neolabs.kz/ubuntu/
-http://mirror.hoster.kz/ubuntu/
-http://archive.ubuntu.com/ubuntu/

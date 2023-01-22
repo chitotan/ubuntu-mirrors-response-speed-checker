@@ -1,2 +1,0 @@
-http://download.nust.na/pub/ubuntu/ubuntu/
-http://archive.ubuntu.com/ubuntu/

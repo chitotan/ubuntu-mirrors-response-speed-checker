@@ -1,2 +1,0 @@
-http://mirror.datacenter.mn/ubuntu/
-http://archive.ubuntu.com/ubuntu/

@@ -1,4 +1,0 @@
-http://ubuntu.koyanet.lv/ubuntu/
-http://mirror.cloudhosting.lv/ubuntu/
-http://ubuntu-arch.linux.edu.lv/ubuntu/
-http://archive.ubuntu.com/ubuntu/

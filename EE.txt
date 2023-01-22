@@ -1,4 +1,0 @@
-http://ftp.aso.ee/ubuntu/
-https://mirrors.xtom.ee/ubuntu/
-http://ftp.estpak.ee/ubuntu/
-http://archive.ubuntu.com/ubuntu/

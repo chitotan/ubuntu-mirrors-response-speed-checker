@@ -1,6 +1,0 @@
-https://mirrors.sth.sze.hu/ubuntu/
-https://mirror.niif.hu/ubuntu/
-http://ftp.fsn.hu/ubuntu/
-http://repo.jztkft.hu/ubuntu/
-https://quantum-mirror.hu/mirrors/pub/ubuntu/
-http://archive.ubuntu.com/ubuntu/

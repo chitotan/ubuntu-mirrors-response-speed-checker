@@ -1,7 +1,0 @@
-http://cesium.di.uminho.pt/pub/ubuntu-archive/
-http://mirrors.up.pt/ubuntu/
-http://archive.ubuntumirror.dei.uc.pt/ubuntu/
-https://mirrors.ptisp.pt/ubuntu/
-http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/
-http://glua.ua.pt/pub/ubuntu/
-http://archive.ubuntu.com/ubuntu/

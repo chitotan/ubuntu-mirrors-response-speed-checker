@@ -1,3 +1,0 @@
-http://ftp.belnet.be/ubuntu/
-http://mirror.unix-solutions.be/ubuntu/
-http://archive.ubuntu.com/ubuntu/

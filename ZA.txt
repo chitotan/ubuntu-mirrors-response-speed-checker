@@ -1,6 +1,0 @@
-http://ubuntu.mirror.rain.co.za/ubuntu/
-http://ubuntu.mirror.ac.za/ubuntu/
-http://mirror.hostafrica.co.za/ubuntu/
-http://mirror.wiru.co.za/ubuntu/
-http://mirror.lnx-solutions.com/ubuntu/
-http://archive.ubuntu.com/ubuntu/

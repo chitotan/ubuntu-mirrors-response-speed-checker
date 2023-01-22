@@ -1,5 +1,0 @@
-http://ftp.litnet.lt/ubuntu/
-http://ubuntu.mirror.vu.lt/ubuntu/
-http://ubuntu-archive.mirror.serveriai.lt/
-https://mirror.vpsnet.com/ubuntu/
-http://archive.ubuntu.com/ubuntu/

@@ -1,3 +1,0 @@
-http://mirror.as43289.net/ubuntu/
-http://mirrors.mivocloud.com/ubuntu/
-http://archive.ubuntu.com/ubuntu/

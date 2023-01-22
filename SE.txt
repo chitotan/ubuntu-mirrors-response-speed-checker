@@ -1,8 +1,0 @@
-http://mirrors.c0urier.net/linux/ubuntu/
-http://ftp.acc.umu.se/ubuntu/
-https://mirror.linux.pizza/ubuntu/
-https://ftpmirror1.infania.net/ubuntu/
-http://ubuntu.mirror.su.se/ubuntu/
-http://ftp.lysator.liu.se/ubuntu/
-http://mirror.zetup.net/ubuntu/
-http://archive.ubuntu.com/ubuntu/

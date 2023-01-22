@@ -1,4 +1,0 @@
-https://mirror.hnd.cl/ubuntu/
-https://mirror.ufro.cl/ubuntu/
-http://mirror.uchile.cl/ubuntu/
-http://archive.ubuntu.com/ubuntu/

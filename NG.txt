@@ -1,2 +1,0 @@
-http://mirror.ng/ubuntu-archive/
-http://archive.ubuntu.com/ubuntu/

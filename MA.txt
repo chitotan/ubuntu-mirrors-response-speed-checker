@@ -1,2 +1,0 @@
-https://mirror.marwan.ma/ubuntu/
-http://archive.ubuntu.com/ubuntu/

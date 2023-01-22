@@ -1,8 +1,0 @@
-http://archive.ubuntu.csg.uzh.ch/ubuntu/
-https://mirror.init7.net/ubuntu/
-https://ubuntu.ch.altushost.com/
-http://pkg.adfinis.com/ubuntu/
-http://ubuntu.ethz.ch/ubuntu/
-https://mirror.solnet.ch/ubuntu/
-http://mirror.infomaniak.ch/ubuntu/
-http://archive.ubuntu.com/ubuntu/

@@ -1,5 +1,0 @@
-http://ftp.icm.edu.pl/pub/Linux/ubuntu/
-http://ftp.agh.edu.pl/ubuntu/
-http://ubuntu.man.lodz.pl/ubuntu/
-http://ubuntu.task.gda.pl/ubuntu/
-http://archive.ubuntu.com/ubuntu/

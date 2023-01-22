@@ -1,3 +1,0 @@
-http://mirror.espol.edu.ec/ubuntu/
-http://mirror.cedia.org.ec/ubuntu/
-http://archive.ubuntu.com/ubuntu/

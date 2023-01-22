@@ -1,2 +1,0 @@
-http://mir.linux.kg/ubuntu/
-http://archive.ubuntu.com/ubuntu/
