@@ -1,0 +1,15 @@
+https://ubuntu.bardia.tech/
+https://ubuntu.shatel.ir/ubuntu/
+https://archive.ubuntu.petiak.ir/ubuntu/
+http://archive.ubuntu.asiatech.ir/
+https://ubuntu-mirror.kimiahost.com/
+https://mirror.iranserver.com/ubuntu/
+https://mirrors.pardisco.co/ubuntu/
+http://ubuntu.hostiran.ir/ubuntuarchive/
+http://mirror.faraso.org/ubuntu/
+http://mirror.aminidc.com/ubuntu/
+http://ir.ubuntu.sindad.cloud/ubuntu/
+http://repo.iut.ac.ir/repo/Ubuntu/
+http://ubuntu.byteiran.com/ubuntu/
+https://mirror.rasanegar.com/ubuntu/
+http://archive.ubuntu.com/ubuntu/

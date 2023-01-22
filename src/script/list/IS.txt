@@ -1,0 +1,3 @@
+https://mirrors.opensource.is/ubuntu/
+http://ubuntu.hysing.is/ubuntu/
+http://archive.ubuntu.com/ubuntu/

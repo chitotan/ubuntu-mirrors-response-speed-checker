@@ -1,0 +1,3 @@
+http://mirror.dhakacom.com/ubuntu-archive/
+http://mirror.xeonbd.com/ubuntu-archive/
+http://archive.ubuntu.com/ubuntu/

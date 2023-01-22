@@ -1,0 +1,4 @@
+https://mirror.vnet.sk/ubuntu/
+http://tux.rainside.sk/ubuntu/
+http://ftp.energotel.sk/pub/linux/ubuntu/
+http://archive.ubuntu.com/ubuntu/

@@ -1,0 +1,4 @@
+http://ftp.cc.uoc.gr/mirrors/linux/ubuntu/packages/
+http://ftp.ntua.gr/ubuntu/
+http://ubuntu.otenet.gr/
+http://archive.ubuntu.com/ubuntu/

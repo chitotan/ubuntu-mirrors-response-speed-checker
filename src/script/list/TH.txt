@@ -1,0 +1,7 @@
+http://mirror1.totbb.net/ubuntu/
+http://mirrors.bangmod.cloud/ubuntu/
+https://mirrors.nipa.cloud/ubuntu/
+http://mirror1.ku.ac.th/ubuntu/
+http://mirrors.psu.ac.th/ubuntu/
+https://mirror.kku.ac.th/ubuntu/
+http://archive.ubuntu.com/ubuntu/

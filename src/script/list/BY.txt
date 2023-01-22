@@ -1,0 +1,3 @@
+http://mirror.datacenter.by/ubuntu/
+http://ftp.byfly.by/ubuntu/
+http://archive.ubuntu.com/ubuntu/

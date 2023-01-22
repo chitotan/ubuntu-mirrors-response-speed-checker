@@ -1,0 +1,3 @@
+http://ftp.arnes.si/pub/mirrors/ubuntu/
+https://si.mirror.kumi.systems/ubuntu/
+http://archive.ubuntu.com/ubuntu/

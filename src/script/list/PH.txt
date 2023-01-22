@@ -1,0 +1,3 @@
+http://mirror.pregi.net/ubuntu/
+http://mirror.rise.ph/ubuntu/
+http://archive.ubuntu.com/ubuntu/

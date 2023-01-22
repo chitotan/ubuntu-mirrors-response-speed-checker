@@ -1,0 +1,12 @@
+https://mirror.realcompute.io/ubuntu/
+http://mirror.overthewire.com.au/ubuntu/
+https://mirror.internet.asn.au/pub/ubuntu/archive/
+https://ubuntu.mirror.digitalpacific.com.au/archive/
+http://mirror.internode.on.net/pub/ubuntu/ubuntu/
+http://mirror.netspace.net.au/pub/ubuntu/
+http://mirror.intergrid.com.au/ubuntu/
+http://mirror.aarnet.edu.au/pub/ubuntu/archive/
+http://ubuntu.mirror.serversaustralia.com.au/ubuntu/
+http://ftp.iinet.net.au/pub/ubuntu/
+https://mirror.datamossa.io/ubuntu/archive/
+http://archive.ubuntu.com/ubuntu/

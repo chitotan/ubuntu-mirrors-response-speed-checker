@@ -1,0 +1,3 @@
+http://deb-mirror.habari.co.tz/ubuntu/
+http://mirror.aptus.co.tz/pub/ubuntuarchive/
+http://archive.ubuntu.com/ubuntu/

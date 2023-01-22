@@ -1,0 +1,8 @@
+http://mirror.ehost.vn/ubuntu/
+http://opensource.xtdv.net/ubuntu/
+http://mirrors.nhanhoa.com/ubuntu/
+http://mirrors.vhost.vn/ubuntu/
+http://mirror.clearsky.vn/ubuntu/
+http://mirror.bizflycloud.vn/ubuntu/
+https://mirrors.bkns.vn/ubuntu/
+http://archive.ubuntu.com/ubuntu/

@@ -1,0 +1,9 @@
+http://mirror.yandex.ru/ubuntu/
+http://mirrors.powernet.com.ru/ubuntu/
+https://mirror.truenetwork.ru/ubuntu/
+https://mirror.linux-ia64.org/ubuntu/
+http://mirror.timeweb.ru/ubuntu/
+http://mirror.corbina.net/ubuntu/
+http://mirror.docker.ru/ubuntu/
+http://mirror.logol.ru/ubuntu/
+http://archive.ubuntu.com/ubuntu/

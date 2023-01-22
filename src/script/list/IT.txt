@@ -1,0 +1,5 @@
+https://it1.mirror.vhosting-it.com/ubuntu/
+http://ubuntu.mirror.garr.it/ubuntu/
+https://it2.mirror.vhosting-it.com/ubuntu/
+http://giano.com.dist.unige.it/ubuntu/
+http://archive.ubuntu.com/ubuntu/

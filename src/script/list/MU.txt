@@ -1,0 +1,2 @@
+https://ubuntu-mirror.cloud.mu/ubuntu/
+http://archive.ubuntu.com/ubuntu/
