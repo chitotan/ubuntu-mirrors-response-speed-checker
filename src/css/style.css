@@ -19,6 +19,9 @@
         justify-content: center;
         margin: 20px;
       }
+      #progress{
+        text-align: center;
+      }
       /* select要素のスタイル */
       #file-select {
         padding: 8px;
