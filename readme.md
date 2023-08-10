@@ -10,7 +10,6 @@ htmlとJavaScriptを使用して、Ubuntuの全ミラーサーバーの応答速
 [list.php](/src/script/list/list.php)で[listファイル](/src/script/list)内の.txtファイルを読み出す点以外はJavaScriptで実装しています。
 
 ## Demo
-https://chitotan.com/kusoge/ubuntu-mirrors-response-speed-checker/
 
 
 <small><p id="copy" style="text-align: center;">
